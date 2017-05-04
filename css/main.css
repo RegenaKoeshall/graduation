@@ -1,0 +1,132 @@
+body { 
+	padding-top: 0;
+ }
+
+ .v-high {
+ 	margin-top: -140px;
+ }
+.carousel-caption {
+	color: orange;
+
+}
+.high {
+	padding-top: 0px;
+}
+.p-description {
+	line-height: 1.5em;
+	font-size: 20px; 
+}
+.blue {
+	color: blue;
+
+}
+.white {
+	color: white;
+}
+.marketing {
+	margin-top: 40px;
+}
+.celebrate {
+	margin-bottom: 20px;
+}
+.eatery {
+	margin-top: 30px;
+}
+.wrap-contact {
+	background: black;
+}
+.back {
+	margin-top: -40px;
+	background-image: url("../img/casnar.jpg");
+	background-size: cover;
+	background-position: center;
+	background-color: rgba(0, 0, 0, 0.1);
+	margin-bottom: 40px;
+
+
+}
+
+.jumbotron {
+	background-color: transparent;
+	color: black;
+	font-weight: bold;
+}
+.contact-container {
+	margin-left: 10px;
+	margin-right: -60px;
+}
+.comments-section {
+	font-size: 1.5em;
+	font-weight: bold;
+	color: black;
+	line-height: 3rem;
+	margin-bottom: 40px;
+
+}
+.contact-section {
+	margin-top: 40px;
+	margin-left: 20px;
+}
+.phone ,
+.mail,
+.twitter {
+	background: lightgrey;
+	border-radius: 50%;
+	margin: 5px;
+}
+.link {
+	color: black;
+	font-weight: bold;
+}
+/********About***********/
+
+
+.back-about {
+	background-color: #d9dddd;
+	background-image: url("../img/background1.png");
+	background-size: cover;
+	background-repeat: repeat;
+	background-position: center;
+	
+}
+
+.google-map {
+	margin-top: 40px;
+}
+/********Footer***********/
+.foot {
+	background: black;
+	margin-left: 0;
+	margin-right: 0;
+}
+footer .row {
+    max-width: 100%;
+}
+
+footer .copy {
+    margin-top: 5%;
+}
+
+footer .column {
+  padding: 5px;
+}
+footer .icon {
+    height: 50px;
+    width: 50px;
+    background-color: lightgrey;
+    border-radius: 50%;
+
+}
+footer p {
+    color: lightgrey;
+    font-family: "Ubuntu";
+    font-size: 1.25rem;
+    font-weight: 300;
+    padding-top: 0.5rem;
+}
+@media (min-width: 768px) {
+
+.night-title {
+	margin-top: 100px;
+	}
+}
