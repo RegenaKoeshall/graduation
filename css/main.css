@@ -1,15 +1,16 @@
 body { 
 	padding-top: 0;
  }
+.v-high {
+	margin-top: 40px;
+}
 
  
 .carousel-caption {
 	color: orange;
 
 }
-.high {
-	padding-top: 0px;
-}
+
 .p-description {
 	line-height: 1.5em;
 	font-size: 20px; 
@@ -126,17 +127,20 @@ footer p {
 	.v-high {
  	margin-top: -100px;
  }
-
+.high {
+	padding-top: 0px;
+}
 .night-title {
-	margin-top: 100px;
+	margin-top: 140px;
 	}
 }
 
 
-@media (min-width: 320px) {
+@media (min-width: 321px) {
 	.v-high {
- 	margin-top: -140px;
+ 	margin-top: -100px;
  }
+ 
 
 
 }
