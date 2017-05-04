@@ -2,9 +2,7 @@ body {
 	padding-top: 0;
  }
 
- .v-high {
- 	margin-top: -140px;
- }
+ 
 .carousel-caption {
 	color: orange;
 
@@ -125,8 +123,20 @@ footer p {
     padding-top: 0.5rem;
 }
 @media (min-width: 768px) {
+	.v-high {
+ 	margin-top: -100px;
+ }
 
 .night-title {
 	margin-top: 100px;
 	}
+}
+
+
+@media (min-width: 320px) {
+	.v-high {
+ 	margin-top: -140px;
+ }
+
+
 }
